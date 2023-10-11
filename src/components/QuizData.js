@@ -19,4 +19,14 @@ export const QuizData = [
         options: ["1996", "1995", "1994", "none of the above"],
         answer: 2
     },
+    {
+        question: "What is ReactJS?",
+        options: ["Server side Framework", "user interface framework", "Both a & b", "None of the above"],
+        answer: 4
+    },
+    {
+        question: "Which language runs in a web browser?",
+        options: ["Java", "C", "Python", "JavaScript"],
+        answer: 4
+    },
 ];
