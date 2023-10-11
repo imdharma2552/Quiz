@@ -22,11 +22,17 @@ export const QuizData = [
     {
         question: "What is ReactJS?",
         options: ["Server side Framework", "user interface framework", "Both a & b", "None of the above"],
-        answer: 4
+        answer: 2
     },
     {
         question: "In which language is React.js written?",
         options: ["Java", "PHP", "Python", "JavaScript"],
         answer: 4
+    },
+    {
+        question: "Which of the following command is used to install create-react-app?",
+        options: ["npm install -g create-react-app", "npm install create-react-app
+", "npm install -f create-react-app", "install -g create-react-app"],
+        answer: 1
     },
 ];
