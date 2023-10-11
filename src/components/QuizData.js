@@ -25,8 +25,8 @@ export const QuizData = [
         answer: 4
     },
     {
-        question: "Which language runs in a web browser?",
-        options: ["Java", "C", "Python", "JavaScript"],
+        question: "In which language is React.js written?",
+        options: ["Java", "PHP", "Python", "JavaScript"],
         answer: 4
     },
 ];
